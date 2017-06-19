@@ -1,0 +1,8 @@
+site_name: Prem Karat
+site_url: https://premkarat.github.io
+theme: cinder
+pages:
+- About Me: 'index.md'
+- Code: 'code.md'
+- Publications: 'pubs.md'
+- Learning Resources: 'resources.md'
