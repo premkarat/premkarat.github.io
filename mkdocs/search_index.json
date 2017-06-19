@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/pubs/", 
-            "text": "Whitepapers\n\n\n\n\nIPsec\n implementation in MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nkernel performance test\n on MontaVista Carrier Grade Edition 7 (CGE7) \n\n\nkASLR\n, kernel address space layout randomization testing on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nleap second test\n on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\n\n\nGuest Lecture\n\n\n\n\nDelivered \nguest lecture\n on \nKVM\n, \nOpenstack overview\n \n \nrequest flow\n, contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory \n Technologies\" at \nIIT Jodhpur\n\n\n\n\nWorkshops\n\n\n\n\nKVM \n Openstack workshop\n in \nPSG tech\n\n\nLinux workshop\n at \nSASTRA University\n\n\nCloud \n Linux\n workshop at \nNIT Calicut", 
+            "text": "Whitepapers\n\n\n\n\nIPsec\n implementation in MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nkernel performance test\n on MontaVista Carrier Grade Edition 7 (CGE7) \n\n\nkASLR\n, kernel address space layout randomization testing on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nleap second test\n on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\n\n\nGuest Lecture @\nIIT Jodhpur\n\n\n\n\nDelivered \nguest lecture\n on \nKVM\n, \nOpenstack overview\n \n \nrequest flow\n, contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory \n Technologies\"\n\n\n\n\nWorkshops\n\n\n\n\nKVM \n Openstack workshop\n in \nPSG tech\n\n\nLinux workshop\n at \nSASTRA University\n\n\nCloud \n Linux\n workshop at \nNIT Calicut", 
             "title": "Publications"
         }, 
         {
@@ -36,9 +36,9 @@
             "title": "Whitepapers"
         }, 
         {
-            "location": "/pubs/#guest-lecture", 
-            "text": "Delivered  guest lecture  on  KVM ,  Openstack overview     request flow , contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory   Technologies\" at  IIT Jodhpur", 
-            "title": "Guest Lecture"
+            "location": "/pubs/#guest-lecture-iit-jodhpur", 
+            "text": "Delivered  guest lecture  on  KVM ,  Openstack overview     request flow , contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory   Technologies\"", 
+            "title": "Guest Lecture @IIT Jodhpur"
         }, 
         {
             "location": "/pubs/#workshops", 
