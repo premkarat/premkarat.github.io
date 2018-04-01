@@ -1,0 +1,69 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "About Me\n\n\nI am a Software Test Engineer having experience in testing \nLinux kernel\n, \nLinux KVM\n & \nOpenstack\n and automate tests using \nPython\n. Have contributed to various open-source projects. You may view my open source contributions in \ngithub\n.\n\n\nHave received \nBachelor of Engineering\n in \nElectronics and Telecommunication\n in 2002 from \nNIT Silchar\n.\n\n\nView my CV \nin PDF format\n.\n\n\nContact Information\n\n\nEmail: prem(dot)karat(at)gmail(dot)com\n\n\nGithub: \n@premkarat\n\n\nLinkedIn: \nPrem Karat",
+            "title": "About Me"
+        },
+        {
+            "location": "/#about-me",
+            "text": "I am a Software Test Engineer having experience in testing  Linux kernel ,  Linux KVM  &  Openstack  and automate tests using  Python . Have contributed to various open-source projects. You may view my open source contributions in  github .  Have received  Bachelor of Engineering  in  Electronics and Telecommunication  in 2002 from  NIT Silchar .  View my CV  in PDF format .",
+            "title": "About Me"
+        },
+        {
+            "location": "/#contact-information",
+            "text": "Email: prem(dot)karat(at)gmail(dot)com  Github:  @premkarat  LinkedIn:  Prem Karat",
+            "title": "Contact Information"
+        },
+        {
+            "location": "/code/",
+            "text": "Code repositories\n\n\n\n\n\n\nmvtest\n, an open-source, test automation framework & suite based on \npytest\n. \n\n\n\n\n\n\nautotest\n, fully automated tests on Linux.\n\n\n\n\n\n\ntempest\n, OpenStack Testing of an existing cloud.\n\n\n\n\n\n\npytest-html\n, plugin for generating HTML reports for py.test results.\n\n\n\n\n\n\nlnxhc\n, a tool for Linux to identify potential problems before they impact your system\u2019s availability or cause outages.\n\n\n\n\n\n\nOther projects I have contributed to can be found on\n\nGitHub\n.",
+            "title": "Code"
+        },
+        {
+            "location": "/code/#code-repositories",
+            "text": "mvtest , an open-source, test automation framework & suite based on  pytest .     autotest , fully automated tests on Linux.    tempest , OpenStack Testing of an existing cloud.    pytest-html , plugin for generating HTML reports for py.test results.    lnxhc , a tool for Linux to identify potential problems before they impact your system\u2019s availability or cause outages.    Other projects I have contributed to can be found on GitHub .",
+            "title": "Code repositories"
+        },
+        {
+            "location": "/pubs/",
+            "text": "Whitepapers\n\n\n\n\nIPsec\n implementation in MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nkernel performance test\n on MontaVista Carrier Grade Edition 7 (CGE7) \n\n\nkASLR\n, kernel address space layout randomization testing on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\nleap second test\n on MontaVista Carrier Grade Edition 7 (CGE7)\n\n\n\n\nGuest Lecture @\nIIT Jodhpur\n\n\n\n\nDelivered \nguest lecture\n on \nKVM\n, \nOpenstack overview\n & \nrequest flow\n, contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory & Technologies\"\n\n\n\n\nWorkshops\n\n\n\n\nKVM & Openstack workshop\n at \nPSG tech\n\n\nLinux workshop\n at \nSASTRA University\n\n\nCloud & Linux\n workshop at \nNIT Calicut",
+            "title": "Publications"
+        },
+        {
+            "location": "/pubs/#whitepapers",
+            "text": "IPsec  implementation in MontaVista Carrier Grade Edition 7 (CGE7)  kernel performance test  on MontaVista Carrier Grade Edition 7 (CGE7)   kASLR , kernel address space layout randomization testing on MontaVista Carrier Grade Edition 7 (CGE7)  leap second test  on MontaVista Carrier Grade Edition 7 (CGE7)",
+            "title": "Whitepapers"
+        },
+        {
+            "location": "/pubs/#guest-lecture-iit-jodhpur",
+            "text": "Delivered  guest lecture  on  KVM ,  Openstack overview  &  request flow , contributing to an academic module for a two credit course titled \"63201 Cloud Computing Theory & Technologies\"",
+            "title": "Guest Lecture @IIT Jodhpur"
+        },
+        {
+            "location": "/pubs/#workshops",
+            "text": "KVM & Openstack workshop  at  PSG tech  Linux workshop  at  SASTRA University  Cloud & Linux  workshop at  NIT Calicut",
+            "title": "Workshops"
+        },
+        {
+            "location": "/resources/",
+            "text": "python - top 3 books to learn python (IMHO)\n\n\n\n\npython Essential Reference 4ed by David Beazley\n\n\npython cookbook by David Beazley\n\n\nFluent Python by Luciano Ramalho\n\n\n\n\npytest - learning resources\n\n\n\n\npytest-doc\n\n\nquick overview\n\n\n3 hours training on pytest\n\n\nAdvance fixtures training\n\n\nvarious other talks\n\n\npython testing with pytest\n\n\n\n\nGolang - learning resources\n\n\n\n\nTodd McLeod - Udemy\n\n\nCaleb Doxsey- perfect for beginners",
+            "title": "Learning Resources"
+        },
+        {
+            "location": "/resources/#python-top-3-books-to-learn-python-imho",
+            "text": "python Essential Reference 4ed by David Beazley  python cookbook by David Beazley  Fluent Python by Luciano Ramalho",
+            "title": "python - top 3 books to learn python (IMHO)"
+        },
+        {
+            "location": "/resources/#pytest-learning-resources",
+            "text": "pytest-doc  quick overview  3 hours training on pytest  Advance fixtures training  various other talks  python testing with pytest",
+            "title": "pytest - learning resources"
+        },
+        {
+            "location": "/resources/#golang-learning-resources",
+            "text": "Todd McLeod - Udemy  Caleb Doxsey- perfect for beginners",
+            "title": "Golang - learning resources"
+        }
+    ]
+}
